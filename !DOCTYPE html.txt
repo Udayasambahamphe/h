@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="em">
+<head>
+<title>my first page</title>
+<meta charset="utf-8">
+<meta name ="auther" content="your name">
+</head>
+<body bgcolor="#669899"
+backgrond="image/bg.jpgtest="#ffffff">
+<h1>welcome to web designing</h1>
+<p>this page contant goes here</p>
+</body>
+</html>
